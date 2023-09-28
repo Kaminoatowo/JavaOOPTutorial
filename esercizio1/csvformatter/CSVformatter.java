@@ -31,7 +31,7 @@ public class CSVformatter {
     }
 
     private String getHeader(String name) {
-        return name.toUppercase;;
+        return name.toUpperCase();
     }
 
     public String getDelimiter() {

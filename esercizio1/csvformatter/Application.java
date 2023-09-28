@@ -1,5 +1,9 @@
 package csvformatter;
 
+import csvformatter.CSVformatter;
+import csvformatter.Persona;
+import csvformatter.Studente;
+
 public class Application {
     public void main(String[] args) {
         var persona = new Persona("Mario", "Rossi");
